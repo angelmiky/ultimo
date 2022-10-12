@@ -1,0 +1,3 @@
+Son las primeras pŕactica que se realizan:
+a.- Crear un directorio.
+b.- Crear un archivo.
