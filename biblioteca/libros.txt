@@ -1,3 +1,5 @@
 Libros prestados: 120
 Libros disponibles: 210
 Libros reservados:3
+Libros para vender:5
+Libros para comprar:8
